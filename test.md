@@ -9,7 +9,8 @@
 	1. Github 가입
 	2. Github resistory 만들기
 	3. Github page setting
+123
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDE4MDc4M119
+eyJoaXN0b3J5IjpbMjYzMjQzMzI5LDE0NzAxODA3ODNdfQ==
 -->
