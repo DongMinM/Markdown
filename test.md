@@ -4,9 +4,9 @@
 안녕하세요! 첫 포스팅으로 Github Page 만드는 방법을 소개하려고 합니다.
 
 ##  개요
->==깃허브(Github) Page==  만들기
+> ==깃허브(Github) Page==  만들기
 * **Summary**
-	- Github 가입
+	- ==Github 가입==
 	-  Github repository 만들기
 	- Github page setting
 
@@ -23,6 +23,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTcxODEwOSwtMTkwOTg4MjI0Myw0Mz
+eyJoaXN0b3J5IjpbMTA4MTEzMjE1NywtMTkwOTg4MjI0Myw0Mz
 MyNDU1MzQsMjYzMjQzMzI5LDE0NzAxODA3ODNdfQ==
 -->
