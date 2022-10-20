@@ -8,9 +8,9 @@
 ##  개요
 > ==깃허브(Github) Page==  만들기
 * **Summary**
-	1. Github 가입
-	2. Github repository 만들기
-	3. Github page setting
+	- Github 가입
+	-  Github repository 만들기
+	- Github page setting
 
 
 ## Github 가입하기
@@ -26,6 +26,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMjQ1NTM0LDI2MzI0MzMyOSwxNDcwMT
-gwNzgzXX0=
+eyJoaXN0b3J5IjpbMTQzMTMyNjI4Nyw0MzMyNDU1MzQsMjYzMj
+QzMzI5LDE0NzAxODA3ODNdfQ==
 -->
