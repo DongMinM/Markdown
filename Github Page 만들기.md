@@ -10,31 +10,10 @@
 	-  Github repository 만들기
 	- Github page setting
 	
-Item | Value
--------- | -----
-Computer | $1600
-Phone | $12
-Pipe | $1 
-
-| Column 1 | Column 2 |
-|:--------:| -------------:|
-| centered | right-aligned |
 ## Github 가입하기
 
 $$
-Item | Value
--------- | -----
-Computer | $1600
-Phone | $12
-Pipe | $1 
-
-| Column 1 | Column 2 |
-|:--------:| -------------:|
-| centered | right-aligned |
-
-
-
-
+	[1	|  2] 
 $$
 
 
@@ -48,6 +27,6 @@ $$
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdpdGh1YiDtjpjsnbTsp4
 Ag66eM65Ok6riwXG50YWdzOiBHaXRodWJcbmRhdGU6ICcyMDIy
-LTEwLTIxJ1xuIiwiaGlzdG9yeSI6Wy0yMDIxOTM4MDkyLDI3OT
-I1MTY1OCwtNzEzNzY4MjM4LDQ5ODY3MDMzNl19
+LTEwLTIxJ1xuIiwiaGlzdG9yeSI6WzE2NDY5MTQ5OTEsMjc5Mj
+UxNjU4LC03MTM3NjgyMzgsNDk4NjcwMzM2XX0=
 -->
