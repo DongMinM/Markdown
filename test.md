@@ -1,8 +1,6 @@
 
 # Github Page 만들기
 
-
-
 안녕하세요! 첫 포스팅으로 Github Page 만드는 방법을 소개하려고 합니다.
 
 ##  개요
@@ -11,7 +9,6 @@
 	- Github 가입
 	-  Github repository 만들기
 	- Github page setting
-
 
 ## Github 가입하기
 
@@ -26,6 +23,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTMyNjI4Nyw0MzMyNDU1MzQsMjYzMj
-QzMzI5LDE0NzAxODA3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE5MDk4ODIyNDMsNDMzMjQ1NTM0LDI2Mz
+I0MzMyOSwxNDcwMTgwNzgzXX0=
 -->
