@@ -13,7 +13,7 @@
 ## Github 가입하기
 
 $$
-	[1	|  2] 
+	/b
 $$
 
 
@@ -27,6 +27,6 @@ $$
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdpdGh1YiDtjpjsnbTsp4
 Ag66eM65Ok6riwXG50YWdzOiBHaXRodWJcbmRhdGU6ICcyMDIy
-LTEwLTIxJ1xuIiwiaGlzdG9yeSI6WzE2NDY5MTQ5OTEsMjc5Mj
+LTEwLTIxJ1xuIiwiaGlzdG9yeSI6WzE4ODkwMDgzODcsMjc5Mj
 UxNjU4LC03MTM3NjgyMzgsNDk4NjcwMzM2XX0=
 -->
