@@ -6,7 +6,7 @@
 ##  개요
 > ==깃허브(Github) Page==  만들기
 * **Summary**
-	- ==Github 가입==
+	- Github 가입
 	-  Github repository 만들기
 	- Github page setting
 
@@ -23,6 +23,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTEzMjE1NywtMTkwOTg4MjI0Myw0Mz
-MyNDU1MzQsMjYzMjQzMzI5LDE0NzAxODA3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE5MDk4ODIyNDMsLTE5MDk4ODIyNDMsND
+MzMjQ1NTM0LDI2MzI0MzMyOSwxNDcwMTgwNzgzXX0=
 -->
